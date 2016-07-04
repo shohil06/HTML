@@ -1,5 +1,18 @@
 <html>
 <head>
+  <meta charset="utf-8" />
+
+  <style>
+  #emphasis{
+    color: red;
+  }
+  .initial{
+    color: blue;
+  }
+  li-nth-child(5){
+    color: grey;
+  }
+  </style>
 <title>
 My Index Page
 </title>
@@ -8,14 +21,13 @@ My Index Page
 <body>
   <h1> My <em>HTML</em> Files </h1>
   <br><br>
-  <shohil>Hi i am shohil
       <div>
           <ol>
-            <li>
+            <li class="initial">
               <a href="DefinitionLists.html"> DefinitionLists </a>
             </li>
             <br>
-            <li>
+            <li class="initial">
               <a href="FirstHTML.html"> FirstHTML </a>
             </li>
             <br>
@@ -23,7 +35,7 @@ My Index Page
               <a href="ListusingBreak.html"> ListusingBreak </a>
             </li>
             <br>
-            <li>
+            <li class="initial">
               <a href="OrderedLists.html"> OrderedLists </a>
             </li>
             <br>
@@ -31,7 +43,7 @@ My Index Page
               <a href="UnorderedLists.html"> UnorderedLists </a>
             </li>
             <br>
-            <li>
+            <li id="emphasis">
               <a href="Blockquote.html" target=""> Blockquote </a>
             </li>
           </ol>
