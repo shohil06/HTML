@@ -1,10 +1,17 @@
 a
   {
       color: red; text-decoration: none;
+      margin-left: 50px;
   }
 
 h1
   {
     font-family: Arial, sans-serif;
+    margin-left: 100px;
 
+  }
+  div{
+    margin-left: auto;
+    background-color: green;
+    width:500px;
   }
