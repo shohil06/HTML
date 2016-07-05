@@ -1,11 +1,12 @@
 
 .wrap{
+  margin: auto;
   width: 800px;
   height: 600px;
   background-color: grey;
 }
 .inside{
-  position: absolute;
+  position: relative;
   top: 100px;
   left: 50px;
   width: 400px;
