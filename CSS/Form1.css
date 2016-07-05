@@ -1,0 +1,15 @@
+form{
+  width: 350px;
+}
+textarea{
+  width: 300px;
+  height: 350px;
+}
+form ul{
+  list-style: none;
+  text-decoration: none;
+  padding-left: 0px;
+}
+form ul li{
+  margin: 10px;
+}
