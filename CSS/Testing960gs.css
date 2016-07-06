@@ -1,0 +1,48 @@
+body{
+  background: grey;
+}
+.container_12{
+  width: auto;
+  margin-top: 20px;
+  background: url(http://bgfons.com/upload/light_texture2188.jpg)no-repeat;
+}
+h1{
+  background: url(../IMG/random-picture-9.jpg) no-repeat;
+  text-indent: 100px;
+  margin-left: 0px;
+  padding: 20px;
+}
+h1 a{
+  letter-spacing: 15px;
+  color: green;
+  text-decoration: none;
+  text-emphasis-position: left;
+  background: whitesmoke;
+}
+
+.container1 li{
+  margin-top: 20px;
+  margin-left: 15px;
+}
+.primary
+{
+  color: yellow;
+}
+.container2 li{
+  margin-top: 20px;
+  margin-left: 15px;
+  padding-bottom: 5px;
+  margin-bottom: 10px;
+}
+a {
+  background-color: green;
+  text-decoration: none;
+  mix-blend-mode: exclusion;
+  text-transform: full-width;
+}
+.footer1{
+  margin-bottom: auto;
+  width: 100%;
+  clear: both;
+  background: transparent;
+}
